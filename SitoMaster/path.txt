@@ -1,0 +1,6 @@
+java -cp hsqldb.jar org.hsqldb.Server -database.0 file:master -dbname.0 xdb
+
+
+
+C:\Sun\SDK\jdk\bin\java -cp hsqldb.jar org.hsqldb.Server -database.0 file:master -dbname.0 xdb
+
